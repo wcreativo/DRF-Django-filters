@@ -1,2 +1,2 @@
-# django-filters-api
-django-filters nested fields
+# Django-filters-examples
+django-filters - Filtering nested objects
